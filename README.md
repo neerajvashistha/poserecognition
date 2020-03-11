@@ -1,5 +1,5 @@
 ## Pose Recognition
-A samll work to demonstrate pose recoginition using openpose
+A small work to demonstrate pose recoginition using openpose
 
 
 ## Openpose Installation
